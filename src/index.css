@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    /* Fond très sombre, texte gris clair, et le surlignage du texte en jaune accentué */
+    @apply bg-arknights-bg text-gray-200 overflow-x-hidden font-sans selection:bg-arknights-accent selection:text-arknights-bg;
+  }
+}
+
+/* La fameuse grille en arrière-plan */
+.bg-grid {
+  background-size: 50px 50px;
+  background-image: 
+    linear-gradient(to right, rgba(38, 44, 53, 0.5) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(38, 44, 53, 0.5) 1px, transparent 1px);
+}
