@@ -150,6 +150,6 @@ npm run build
 
 Computer Science & Human-Technology (Hutech) Engineering Student — **UTC Compiègne**
 
-* LinkedIn: [@tom-padovani](https://linkedin.com/in/tom-padovani](https://www.linkedin.com/in/tom-padovani-2b0b87382/)
+* LinkedIn: [@tom-padovani](https://www.linkedin.com/in/tom-padovani-2b0b87382/)
 * GitHub: [@tomPadovani](https://github.com/Topazz1)
 
